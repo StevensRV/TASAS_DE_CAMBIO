@@ -118,4 +118,4 @@ with gr.Blocks() as interfaz:
     )
 
 # Iniciar la interfaz
-interfaz.launch(share=True)
+interfaz.launch()
