@@ -38,10 +38,6 @@ seaborn
 yfinance
 gradio
 Pillow
-Puedes instalar todas las dependencias ejecutando:
-
-pip install -r requirements.txt
-
 
 Estructura del Proyecto
 
@@ -67,5 +63,5 @@ Haz clic en el botón "Entrenar y Predecir".
 Explora los resultados:
 Métrica de pérdida (MSE).
 Gráfico de predicciones sobre el conjunto de prueba.
-Predicciones futuras en texto. (Próximas 2)
+Predicciones futuras en texto. (Próximos dos datos)
 Gráfico de las predicciones futuras.
